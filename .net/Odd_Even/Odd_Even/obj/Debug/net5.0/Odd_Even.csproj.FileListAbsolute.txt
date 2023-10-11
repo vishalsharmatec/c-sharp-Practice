@@ -1,0 +1,16 @@
+F:\.net\Odd_Even\Odd_Even\bin\Debug\net5.0\Odd_Even.exe
+F:\.net\Odd_Even\Odd_Even\bin\Debug\net5.0\Odd_Even.deps.json
+F:\.net\Odd_Even\Odd_Even\bin\Debug\net5.0\Odd_Even.runtimeconfig.json
+F:\.net\Odd_Even\Odd_Even\bin\Debug\net5.0\Odd_Even.runtimeconfig.dev.json
+F:\.net\Odd_Even\Odd_Even\bin\Debug\net5.0\Odd_Even.dll
+F:\.net\Odd_Even\Odd_Even\bin\Debug\net5.0\ref\Odd_Even.dll
+F:\.net\Odd_Even\Odd_Even\bin\Debug\net5.0\Odd_Even.pdb
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\Odd_Even.csproj.AssemblyReference.cache
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\Odd_Even.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\Odd_Even.AssemblyInfoInputs.cache
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\Odd_Even.AssemblyInfo.cs
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\Odd_Even.csproj.CoreCompileInputs.cache
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\Odd_Even.dll
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\ref\Odd_Even.dll
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\Odd_Even.pdb
+F:\.net\Odd_Even\Odd_Even\obj\Debug\net5.0\Odd_Even.genruntimeconfig.cache

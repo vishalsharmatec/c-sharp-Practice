@@ -1,0 +1,16 @@
+F:\.net\destructor\destructor\bin\Debug\net5.0\destructor.exe
+F:\.net\destructor\destructor\bin\Debug\net5.0\destructor.deps.json
+F:\.net\destructor\destructor\bin\Debug\net5.0\destructor.runtimeconfig.json
+F:\.net\destructor\destructor\bin\Debug\net5.0\destructor.runtimeconfig.dev.json
+F:\.net\destructor\destructor\bin\Debug\net5.0\destructor.dll
+F:\.net\destructor\destructor\bin\Debug\net5.0\ref\destructor.dll
+F:\.net\destructor\destructor\bin\Debug\net5.0\destructor.pdb
+F:\.net\destructor\destructor\obj\Debug\net5.0\destructor.csproj.AssemblyReference.cache
+F:\.net\destructor\destructor\obj\Debug\net5.0\destructor.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\destructor\destructor\obj\Debug\net5.0\destructor.AssemblyInfoInputs.cache
+F:\.net\destructor\destructor\obj\Debug\net5.0\destructor.AssemblyInfo.cs
+F:\.net\destructor\destructor\obj\Debug\net5.0\destructor.csproj.CoreCompileInputs.cache
+F:\.net\destructor\destructor\obj\Debug\net5.0\destructor.dll
+F:\.net\destructor\destructor\obj\Debug\net5.0\ref\destructor.dll
+F:\.net\destructor\destructor\obj\Debug\net5.0\destructor.pdb
+F:\.net\destructor\destructor\obj\Debug\net5.0\destructor.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@*<p>today and time is:@datetime.now</p>
+<p>this year @datetime.now.year</p>*@
+
+@{ 
+    string name = "Learning Never Ends";
+    var TodaysTime = DateTime.Now.ToLongTimeString();
+
+
+}
+<h2>channel name is: @name</h2>
+<h2>Today time is:@TodaysTime</h2>

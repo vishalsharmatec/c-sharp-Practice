@@ -1,0 +1,16 @@
+F:\.net\Hello\Hello\bin\Debug\net5.0\Hello.exe
+F:\.net\Hello\Hello\bin\Debug\net5.0\Hello.deps.json
+F:\.net\Hello\Hello\bin\Debug\net5.0\Hello.runtimeconfig.json
+F:\.net\Hello\Hello\bin\Debug\net5.0\Hello.runtimeconfig.dev.json
+F:\.net\Hello\Hello\bin\Debug\net5.0\Hello.dll
+F:\.net\Hello\Hello\bin\Debug\net5.0\ref\Hello.dll
+F:\.net\Hello\Hello\bin\Debug\net5.0\Hello.pdb
+F:\.net\Hello\Hello\obj\Debug\net5.0\Hello.csproj.AssemblyReference.cache
+F:\.net\Hello\Hello\obj\Debug\net5.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Hello\Hello\obj\Debug\net5.0\Hello.AssemblyInfoInputs.cache
+F:\.net\Hello\Hello\obj\Debug\net5.0\Hello.AssemblyInfo.cs
+F:\.net\Hello\Hello\obj\Debug\net5.0\Hello.csproj.CoreCompileInputs.cache
+F:\.net\Hello\Hello\obj\Debug\net5.0\Hello.dll
+F:\.net\Hello\Hello\obj\Debug\net5.0\ref\Hello.dll
+F:\.net\Hello\Hello\obj\Debug\net5.0\Hello.pdb
+F:\.net\Hello\Hello\obj\Debug\net5.0\Hello.genruntimeconfig.cache

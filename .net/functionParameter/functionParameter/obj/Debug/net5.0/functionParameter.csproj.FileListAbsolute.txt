@@ -1,0 +1,16 @@
+F:\.net\functionParameter\functionParameter\bin\Debug\net5.0\functionParameter.exe
+F:\.net\functionParameter\functionParameter\bin\Debug\net5.0\functionParameter.deps.json
+F:\.net\functionParameter\functionParameter\bin\Debug\net5.0\functionParameter.runtimeconfig.json
+F:\.net\functionParameter\functionParameter\bin\Debug\net5.0\functionParameter.runtimeconfig.dev.json
+F:\.net\functionParameter\functionParameter\bin\Debug\net5.0\functionParameter.dll
+F:\.net\functionParameter\functionParameter\bin\Debug\net5.0\ref\functionParameter.dll
+F:\.net\functionParameter\functionParameter\bin\Debug\net5.0\functionParameter.pdb
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\functionParameter.csproj.AssemblyReference.cache
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\functionParameter.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\functionParameter.AssemblyInfoInputs.cache
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\functionParameter.AssemblyInfo.cs
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\functionParameter.csproj.CoreCompileInputs.cache
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\functionParameter.dll
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\ref\functionParameter.dll
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\functionParameter.pdb
+F:\.net\functionParameter\functionParameter\obj\Debug\net5.0\functionParameter.genruntimeconfig.cache

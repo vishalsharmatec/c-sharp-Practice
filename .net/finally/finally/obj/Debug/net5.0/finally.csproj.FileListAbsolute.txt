@@ -1,0 +1,16 @@
+F:\.net\finally\finally\bin\Debug\net5.0\finally.exe
+F:\.net\finally\finally\bin\Debug\net5.0\finally.deps.json
+F:\.net\finally\finally\bin\Debug\net5.0\finally.runtimeconfig.json
+F:\.net\finally\finally\bin\Debug\net5.0\finally.runtimeconfig.dev.json
+F:\.net\finally\finally\bin\Debug\net5.0\finally.dll
+F:\.net\finally\finally\bin\Debug\net5.0\ref\finally.dll
+F:\.net\finally\finally\bin\Debug\net5.0\finally.pdb
+F:\.net\finally\finally\obj\Debug\net5.0\finally.csproj.AssemblyReference.cache
+F:\.net\finally\finally\obj\Debug\net5.0\finally.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\finally\finally\obj\Debug\net5.0\finally.AssemblyInfoInputs.cache
+F:\.net\finally\finally\obj\Debug\net5.0\finally.AssemblyInfo.cs
+F:\.net\finally\finally\obj\Debug\net5.0\finally.csproj.CoreCompileInputs.cache
+F:\.net\finally\finally\obj\Debug\net5.0\finally.dll
+F:\.net\finally\finally\obj\Debug\net5.0\ref\finally.dll
+F:\.net\finally\finally\obj\Debug\net5.0\finally.pdb
+F:\.net\finally\finally\obj\Debug\net5.0\finally.genruntimeconfig.cache

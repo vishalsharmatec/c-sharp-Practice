@@ -1,0 +1,16 @@
+F:\.net\trycatch\trycatch\bin\Debug\net5.0\trycatch.exe
+F:\.net\trycatch\trycatch\bin\Debug\net5.0\trycatch.deps.json
+F:\.net\trycatch\trycatch\bin\Debug\net5.0\trycatch.runtimeconfig.json
+F:\.net\trycatch\trycatch\bin\Debug\net5.0\trycatch.runtimeconfig.dev.json
+F:\.net\trycatch\trycatch\bin\Debug\net5.0\trycatch.dll
+F:\.net\trycatch\trycatch\bin\Debug\net5.0\ref\trycatch.dll
+F:\.net\trycatch\trycatch\bin\Debug\net5.0\trycatch.pdb
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\trycatch.csproj.AssemblyReference.cache
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\trycatch.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\trycatch.AssemblyInfoInputs.cache
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\trycatch.AssemblyInfo.cs
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\trycatch.csproj.CoreCompileInputs.cache
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\trycatch.dll
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\ref\trycatch.dll
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\trycatch.pdb
+F:\.net\trycatch\trycatch\obj\Debug\net5.0\trycatch.genruntimeconfig.cache

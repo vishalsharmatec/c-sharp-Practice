@@ -1,0 +1,16 @@
+F:\.net\Functiom\Functiom\bin\Debug\net5.0\Functiom.exe
+F:\.net\Functiom\Functiom\bin\Debug\net5.0\Functiom.deps.json
+F:\.net\Functiom\Functiom\bin\Debug\net5.0\Functiom.runtimeconfig.json
+F:\.net\Functiom\Functiom\bin\Debug\net5.0\Functiom.runtimeconfig.dev.json
+F:\.net\Functiom\Functiom\bin\Debug\net5.0\Functiom.dll
+F:\.net\Functiom\Functiom\bin\Debug\net5.0\ref\Functiom.dll
+F:\.net\Functiom\Functiom\bin\Debug\net5.0\Functiom.pdb
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\Functiom.csproj.AssemblyReference.cache
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\Functiom.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\Functiom.AssemblyInfoInputs.cache
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\Functiom.AssemblyInfo.cs
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\Functiom.csproj.CoreCompileInputs.cache
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\Functiom.dll
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\ref\Functiom.dll
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\Functiom.pdb
+F:\.net\Functiom\Functiom\obj\Debug\net5.0\Functiom.genruntimeconfig.cache

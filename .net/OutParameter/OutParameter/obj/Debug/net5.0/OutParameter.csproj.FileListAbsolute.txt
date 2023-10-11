@@ -1,0 +1,16 @@
+F:\.net\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.exe
+F:\.net\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.deps.json
+F:\.net\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.runtimeconfig.json
+F:\.net\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.runtimeconfig.dev.json
+F:\.net\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.dll
+F:\.net\OutParameter\OutParameter\bin\Debug\net5.0\ref\OutParameter.dll
+F:\.net\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.pdb
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.csproj.AssemblyReference.cache
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.AssemblyInfoInputs.cache
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.AssemblyInfo.cs
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.csproj.CoreCompileInputs.cache
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.dll
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\ref\OutParameter.dll
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.pdb
+F:\.net\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.genruntimeconfig.cache

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<WebApplication10.Models.emplyee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", null,new { @class =" btn btn-primary" })
+</p>
+<table class="table table table-hover table-responsive">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Emplyecode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Employename)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Desgntion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Emplyecode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Employename)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Desgntion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Salary)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }, new { @class = " btn btn-primary" }) 
+            @Html.ActionLink("Details", "Details", new { id=item.id }, new { @class = " btn btn-success" })
+            @Html.ActionLink("Delete", "Delete", new { id=item.id }, new { @class = " btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>
+, =

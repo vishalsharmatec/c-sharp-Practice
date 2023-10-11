@@ -1,0 +1,16 @@
+F:\.net\If_else\If_else\bin\Debug\net5.0\If_else.exe
+F:\.net\If_else\If_else\bin\Debug\net5.0\If_else.deps.json
+F:\.net\If_else\If_else\bin\Debug\net5.0\If_else.runtimeconfig.json
+F:\.net\If_else\If_else\bin\Debug\net5.0\If_else.runtimeconfig.dev.json
+F:\.net\If_else\If_else\bin\Debug\net5.0\If_else.dll
+F:\.net\If_else\If_else\bin\Debug\net5.0\ref\If_else.dll
+F:\.net\If_else\If_else\bin\Debug\net5.0\If_else.pdb
+F:\.net\If_else\If_else\obj\Debug\net5.0\If_else.csproj.AssemblyReference.cache
+F:\.net\If_else\If_else\obj\Debug\net5.0\If_else.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\If_else\If_else\obj\Debug\net5.0\If_else.AssemblyInfoInputs.cache
+F:\.net\If_else\If_else\obj\Debug\net5.0\If_else.AssemblyInfo.cs
+F:\.net\If_else\If_else\obj\Debug\net5.0\If_else.csproj.CoreCompileInputs.cache
+F:\.net\If_else\If_else\obj\Debug\net5.0\If_else.dll
+F:\.net\If_else\If_else\obj\Debug\net5.0\ref\If_else.dll
+F:\.net\If_else\If_else\obj\Debug\net5.0\If_else.pdb
+F:\.net\If_else\If_else\obj\Debug\net5.0\If_else.genruntimeconfig.cache

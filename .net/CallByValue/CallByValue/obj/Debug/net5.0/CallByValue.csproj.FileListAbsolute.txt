@@ -1,0 +1,16 @@
+F:\.net\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.exe
+F:\.net\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.deps.json
+F:\.net\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.runtimeconfig.json
+F:\.net\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.runtimeconfig.dev.json
+F:\.net\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.dll
+F:\.net\CallByValue\CallByValue\bin\Debug\net5.0\ref\CallByValue.dll
+F:\.net\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.pdb
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.csproj.AssemblyReference.cache
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.AssemblyInfoInputs.cache
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.AssemblyInfo.cs
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.csproj.CoreCompileInputs.cache
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.dll
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\ref\CallByValue.dll
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.pdb
+F:\.net\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.genruntimeconfig.cache
